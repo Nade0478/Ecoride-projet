@@ -1,6 +1,6 @@
 import React from 'react';
-import CompteForm from './CompteForm';
-import AdminLayout from '../Layout/AdminLayout';
+// import CompteForm from './CompteForm';
+// import AdminLayout from '../Layout/AdminLayout';
 
 const CreateCompte = () => {
     return (

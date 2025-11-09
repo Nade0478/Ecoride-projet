@@ -1,0 +1,15 @@
+.search-card {
+    background: white;
+    border-radius: 20px;
+    border: none;
+  }
+  
+  .search-card .form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+  }
+  
+  .search-card label {
+    font-weight: 600;
+    color: #495057;
+  }

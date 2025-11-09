@@ -1,0 +1,27 @@
+.user-grid-section {
+    background-color: #f8f9fa;
+  }
+  
+  .stat-card {
+    transition: transform 0.3s ease;
+  }
+  
+  .stat-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .stat-icon {
+    font-size: 3rem;
+  }
+  
+  .stat-number {
+    font-size: 2.5rem;
+  }
+  
+  .testimonial-card {
+    transition: transform 0.3s ease;
+  }
+  
+  .testimonial-card:hover {
+    transform: translateY(-5px);
+  }

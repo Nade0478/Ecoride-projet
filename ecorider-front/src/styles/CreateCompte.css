@@ -1,0 +1,14 @@
+.compte-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .compte-button {
+    padding: 10px 20px;
+    background-color: #360652;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

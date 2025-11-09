@@ -1,0 +1,43 @@
+.admin-space {
+    background-color: #f8f9fa;
+    min-height: calc(100vh - 200px);
+  }
+  
+  .chart-container {
+    padding: 10px;
+  }
+  
+  .chart-bar {
+    margin-bottom: 15px;
+  }
+  
+  .chart-label {
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+  
+  .progress {
+    border-radius: 5px;
+    margin-top: 5px;
+  }
+  
+  .card-header h3,
+  .card-header h5 {
+    margin: 0;
+  }
+  
+  .table th {
+    font-weight: 600;
+    color: #495057;
+  }
+  
+  .nav-tabs .nav-link {
+    color: #28a745;
+    font-weight: 500;
+  }
+  
+  .nav-tabs .nav-link.active {
+    background-color: #28a745;
+    color: white;
+    border-color: #28a745;
+  }

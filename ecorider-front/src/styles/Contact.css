@@ -1,0 +1,18 @@
+/* src/styles/Contact.css */
+.contact-form {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+  }
+  
+  .contact-form .form-control {
+    margin-bottom: 1rem;
+  }
+  
+  .contact-form textarea {
+    min-height: 150px;
+  }
+  
+  .contact-form .btn {
+    width: 100%;
+  }
