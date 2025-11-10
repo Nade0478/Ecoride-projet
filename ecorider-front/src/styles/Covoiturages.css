@@ -1,0 +1,48 @@
+.covoiturages-page {
+    background-color: #f8f9fa;
+    min-height: calc(100vh - 200px);
+  }
+  
+  .results-header {
+    padding: 15px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .empty-state {
+    padding: 60px 20px;
+  }
+  
+  /* SearchForm */
+  .search-form-container .card {
+    border: none;
+    border-radius: 12px;
+  }
+  
+  .search-form-container .form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+  }
+  
+  /* FilterBar */
+  .filter-bar {
+    border: none;
+    border-radius: 12px;
+  }
+  
+  .form-check-input:checked {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  /* CovoiturageCard */
+  .covoiturage-card {
+    border: none;
+    border-radius: 12px;
+  }
+  
+  .covoiturage-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15) !important;
+  }

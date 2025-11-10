@@ -1,0 +1,47 @@
+.details-covoiturage-page {
+    background-color: #f8f9fa;
+    min-height: calc(100vh - 200px);
+  }
+  
+  .booking-card {
+    border: none;
+    border-radius: 12px;
+  }
+  
+  .trip-info-card,
+  .driver-info-card,
+  .vehicle-info-card,
+  .reviews-card {
+    border: none;
+    border-radius: 12px;
+  }
+  
+  .main-route .location-info {
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+  }
+  
+  .etape-item {
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 6px;
+  }
+  
+  .info-badge {
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+  }
+  
+  .preference-item {
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 6px;
+    font-size: 0.9rem;
+  }
+  
+  .review-item:hover {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+  }

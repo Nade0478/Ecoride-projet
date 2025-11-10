@@ -1,0 +1,39 @@
+.covoiturage-card {
+    border: none;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+  }
+  
+  .hover-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15) !important;
+  }
+  
+  .trip-arrow {
+    flex: 1;
+    position: relative;
+  }
+  
+  .arrow-line {
+    height: 2px;
+    background: linear-gradient(to right, #28a745, #20c997);
+    position: relative;
+  }
+  
+  .arrow-line::after {
+    content: '→';
+    position: absolute;
+    right: -10px;
+    top: -8px;
+    color: #20c997;
+    font-size: 18px;
+  }
+  
+  .rating {
+    font-size: 14px;
+  }
+  
+  .price h3 {
+    font-size: 2rem;
+    font-weight: bold;
+  }

@@ -22,10 +22,10 @@ const Menu = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           {/* Navigation centrale */}
           <Nav className="mx-auto">
-            <Link to="/" className="nav-link text-white">Accueil</Link>
-            <Link to="/trajets" className="nav-link text-white">Trajets</Link>
-            <Link to="/publier" className="nav-link text-white">Publier un trajet</Link>
-            <Link to="/contact" className="nav-link text-white">Contact</Link>
+            <Link to="/Home" className="nav-link text-white">Accueil</Link>
+            <Link to="/Covoiturages" className="nav-link text-white">Covoiturage</Link>
+            <Link to="/DetailsCovoiturage" className="nav-link text-white">Détails Trajets</Link>
+            <Link to="/Contact" className="nav-link text-white">Contact</Link>
           </Nav>
 
           {/* Boutons connexion à droite */}

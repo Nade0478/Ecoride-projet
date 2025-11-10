@@ -1,0 +1,19 @@
+.filter-bar {
+    border: none;
+    border-radius: 12px;
+    top: 20px;
+  }
+  
+  .filter-section {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e9ecef;
+  }
+  
+  .filter-section:last-child {
+    border-bottom: none;
+  }
+  
+  .form-check-input:checked {
+    background-color: #28a745;
+    border-color: #28a745;
+  }

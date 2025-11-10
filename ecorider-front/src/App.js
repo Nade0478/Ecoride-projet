@@ -29,6 +29,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/covoiturages" element={<Covoiturages />} />
         <Route path="/covoiturage/:id" element={<DetailsCovoiturage />} />
+        <Route path="/DetailsCovoiturage" element={<DetailsCovoiturage />} />
         <Route path="/mentions-legales" element={<MentionsLegales />} />
         <Route path="/login" element={<Login />} />
 
