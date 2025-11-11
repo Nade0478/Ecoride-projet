@@ -20,3 +20,9 @@
     justify-content: center;
     margin: 0 auto;
   }
+
+  .hero-section {
+    background-color: "C:\Users\Nadege\EcoRide\Images\Covoitureur-page-home - Copie.png";
+    padding: 60px 20px;
+    text-align: center;
+  }
